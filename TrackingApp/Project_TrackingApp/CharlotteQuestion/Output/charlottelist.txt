@@ -1,0 +1,2383 @@
+Undelivered items that went through Charlotte:
+
+70191640000164106422, 38525.02, 4868 and check payment; Stack 1
+
+<?xml version="1.0" encoding="utf-8"?>
+<TrackResponse>
+ <TrackInfo ID="70191640000164106422">
+  <TrackSummary>
+   Your package is moving within the USPS network and is on track to be delivered to its final destination. It is currently in transit to the next facility.
+  </TrackSummary>
+  <TrackDetail>
+   In Transit to Next Facility, 04/22/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/21/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/20/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 18, 2024, 8:36 am, CHARLOTTE NC DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/17/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 16, 2024, 12:34 am, COPPELL TX DISTRIBUTION CENTER
+  </TrackDetail>
+ </TrackInfo>
+</TrackResponse>
+
+
+70192280000060192481, 48755.02, 4868 and check payment; Stack 1
+
+<?xml version="1.0" encoding="utf-8"?>
+<TrackResponse>
+ <TrackInfo ID="70192280000060192481">
+  <TrackSummary>
+   Your package is moving within the USPS network and is on track to be delivered to its final destination. It is currently in transit to the next facility.
+  </TrackSummary>
+  <TrackDetail>
+   In Transit to Next Facility, 04/22/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/21/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/20/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 18, 2024, 8:36 am, CHARLOTTE NC DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/17/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 16, 2024, 12:34 am, COPPELL TX DISTRIBUTION CENTER
+  </TrackDetail>
+ </TrackInfo>
+</TrackResponse>
+
+
+70191640000164106507, 49300.02, Form 4868; Slip Only
+
+<?xml version="1.0" encoding="utf-8"?>
+<TrackResponse>
+ <TrackInfo ID="70191640000164106507">
+  <TrackSummary>
+   Your package is moving within the USPS network and is on track to be delivered to its final destination. It is currently in transit to the next facility.
+  </TrackSummary>
+  <TrackDetail>
+   In Transit to Next Facility, 04/22/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/21/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/20/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 18, 2024, 8:36 am, CHARLOTTE NC DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/17/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 16, 2024, 12:34 am, COPPELL TX DISTRIBUTION CENTER
+  </TrackDetail>
+ </TrackInfo>
+</TrackResponse>
+
+
+70192280000060192474, 91308.02, Form 4868; Stack 2
+
+<?xml version="1.0" encoding="utf-8"?>
+<TrackResponse>
+ <TrackInfo ID="70192280000060192474">
+  <TrackSummary>
+   Your package is moving within the USPS network and is on track to be delivered to its final destination. It is currently in transit to the next facility.
+  </TrackSummary>
+  <TrackDetail>
+   In Transit to Next Facility, 04/22/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/21/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/20/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 18, 2024, 8:36 am, CHARLOTTE NC DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/17/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 16, 2024, 12:34 am, COPPELL TX DISTRIBUTION CENTER
+  </TrackDetail>
+ </TrackInfo>
+</TrackResponse>
+
+
+70192280000060191941, 05844.02, 1040ES April Payment; Stack 2
+
+<?xml version="1.0" encoding="utf-8"?>
+<TrackResponse>
+ <TrackInfo ID="70192280000060191941">
+  <TrackSummary>
+   Your package is moving within the USPS network and is on track to be delivered to its final destination. It is currently in transit to the next facility.
+  </TrackSummary>
+  <TrackDetail>
+   In Transit to Next Facility, 04/22/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/21/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/20/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 18, 2024, 8:36 am, CHARLOTTE NC DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/17/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Origin Facility, 04/16/2024, 12:34 am, COPPELL TX DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   USPS in possession of item, April 15, 2024, 11:04 am, WACO, TX 76710
+  </TrackDetail>
+ </TrackInfo>
+</TrackResponse>
+
+
+70191640000164105913, 17335.200, Form 4868; Stack 2
+
+<?xml version="1.0" encoding="utf-8"?>
+<TrackResponse>
+ <TrackInfo ID="70191640000164105913">
+  <TrackSummary>
+   Your package is moving within the USPS network and is on track to be delivered to its final destination. It is currently in transit to the next facility.
+  </TrackSummary>
+  <TrackDetail>
+   In Transit to Next Facility, 04/22/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/21/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/20/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 18, 2024, 8:36 am, CHARLOTTE NC DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/17/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Origin Facility, 04/16/2024, 12:34 am, COPPELL TX DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   USPS in possession of item, April 15, 2024, 11:04 am, WACO, TX 76710
+  </TrackDetail>
+ </TrackInfo>
+</TrackResponse>
+
+
+70211970000045308283, 39919.02, 1040ES 4th Qtr; Stack 2
+
+<?xml version="1.0" encoding="utf-8"?>
+<TrackResponse>
+ <TrackInfo ID="70211970000045308283">
+  <TrackSummary>
+   Your package is moving within the USPS network and is on track to be delivered to its final destination. It is currently in transit to the next facility.
+  </TrackSummary>
+  <TrackDetail>
+   In Transit to Next Facility, 01/11/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 01/10/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 01/09/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, January 8, 2024, 3:11 pm, CHARLOTTE NC DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 01/07/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Origin Facility, 01/05/2024, 11:18 pm, COPPELL TX DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   USPS in possession of item, January 5, 2024, 4:49 pm, WACO, TX 76710
+  </TrackDetail>
+ </TrackInfo>
+</TrackResponse>
+
+
+70211970000045308269, 12716.02, 1040ES 4th Qtr; Stack 2
+
+<?xml version="1.0" encoding="utf-8"?>
+<TrackResponse>
+ <TrackInfo ID="70211970000045308269">
+  <TrackSummary>
+   Your package is moving within the USPS network and is on track to be delivered to its final destination. It is currently in transit to the next facility.
+  </TrackSummary>
+  <TrackDetail>
+   In Transit to Next Facility, 01/11/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 01/10/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 01/09/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, January 8, 2024, 12:54 pm, CHARLOTTE NC DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 01/07/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Origin Facility, 01/05/2024, 11:27 pm, COPPELL TX DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   USPS in possession of item, January 5, 2024, 4:49 pm, WACO, TX 76710
+  </TrackDetail>
+ </TrackInfo>
+</TrackResponse>
+
+
+70191640000164106569, 70380.02, Form 4868; Stack 2
+
+<?xml version="1.0" encoding="utf-8"?>
+<TrackResponse>
+ <TrackInfo ID="70191640000164106569">
+  <TrackSummary>
+   Your package is moving within the USPS network and is on track to be delivered to its final destination. It is currently in transit to the next facility.
+  </TrackSummary>
+  <TrackDetail>
+   In Transit to Next Facility, 04/22/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/21/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/20/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 18, 2024, 8:36 am, CHARLOTTE NC DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/17/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 16, 2024, 12:34 am, COPPELL TX DISTRIBUTION CENTER
+  </TrackDetail>
+ </TrackInfo>
+</TrackResponse>
+
+
+70191640000164106583, 94839.02, Form 4868; Stack 2
+
+<?xml version="1.0" encoding="utf-8"?>
+<TrackResponse>
+ <TrackInfo ID="70191640000164106583">
+  <TrackSummary>
+   Your package is moving within the USPS network and is on track to be delivered to its final destination. It is currently in transit to the next facility.
+  </TrackSummary>
+  <TrackDetail>
+   In Transit to Next Facility, 04/22/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/21/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/20/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 18, 2024, 8:36 am, CHARLOTTE NC DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/17/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 16, 2024, 12:34 am, COPPELL TX DISTRIBUTION CENTER
+  </TrackDetail>
+ </TrackInfo>
+</TrackResponse>
+
+
+70191640000164106545, 36568.02, Form 4868; Stack 2
+
+<?xml version="1.0" encoding="utf-8"?>
+<TrackResponse>
+ <TrackInfo ID="70191640000164106545">
+  <TrackSummary>
+   Your package is moving within the USPS network and is on track to be delivered to its final destination. It is currently in transit to the next facility.
+  </TrackSummary>
+  <TrackDetail>
+   In Transit to Next Facility, 04/22/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/21/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/20/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 18, 2024, 8:36 am, CHARLOTTE NC DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/17/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 16, 2024, 12:34 am, COPPELL TX DISTRIBUTION CENTER
+  </TrackDetail>
+ </TrackInfo>
+</TrackResponse>
+
+
+70191640000164106552, 69190.02, Form 4868; Stack 3
+
+<?xml version="1.0" encoding="utf-8"?>
+<TrackResponse>
+ <TrackInfo ID="70191640000164106552">
+  <TrackSummary>
+   Your package is moving within the USPS network and is on track to be delivered to its final destination. It is currently in transit to the next facility.
+  </TrackSummary>
+  <TrackDetail>
+   In Transit to Next Facility, 04/22/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/21/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/20/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 18, 2024, 8:36 am, CHARLOTTE NC DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/17/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 16, 2024, 12:34 am, COPPELL TX DISTRIBUTION CENTER
+  </TrackDetail>
+ </TrackInfo>
+</TrackResponse>
+
+
+70191640000164106477, 24720.02, Form 4868; Stack 3
+
+<?xml version="1.0" encoding="utf-8"?>
+<TrackResponse>
+ <TrackInfo ID="70191640000164106477">
+  <TrackSummary>
+   Your package is moving within the USPS network and is on track to be delivered to its final destination. It is currently in transit to the next facility.
+  </TrackSummary>
+  <TrackDetail>
+   In Transit to Next Facility, 04/22/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/21/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/20/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 18, 2024, 8:36 am, CHARLOTTE NC DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/17/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 16, 2024, 12:34 am, COPPELL TX DISTRIBUTION CENTER
+  </TrackDetail>
+ </TrackInfo>
+</TrackResponse>
+
+
+70191640000164106484, 00303.02, Form 4868; Stack 3
+
+<?xml version="1.0" encoding="utf-8"?>
+<TrackResponse>
+ <TrackInfo ID="70191640000164106484">
+  <TrackSummary>
+   Your package is moving within the USPS network and is on track to be delivered to its final destination. It is currently in transit to the next facility.
+  </TrackSummary>
+  <TrackDetail>
+   In Transit to Next Facility, 04/22/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/21/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/20/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 18, 2024, 8:36 am, CHARLOTTE NC DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/17/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 16, 2024, 12:34 am, COPPELL TX DISTRIBUTION CENTER
+  </TrackDetail>
+ </TrackInfo>
+</TrackResponse>
+
+
+70191640000164106521, 30125.02, Form 4868; Stack 3
+
+<?xml version="1.0" encoding="utf-8"?>
+<TrackResponse>
+ <TrackInfo ID="70191640000164106521">
+  <TrackSummary>
+   Your package is moving within the USPS network and is on track to be delivered to its final destination. It is currently in transit to the next facility.
+  </TrackSummary>
+  <TrackDetail>
+   In Transit to Next Facility, 04/22/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/21/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/20/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 18, 2024, 8:36 am, CHARLOTTE NC DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/17/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 16, 2024, 12:34 am, COPPELL TX DISTRIBUTION CENTER
+  </TrackDetail>
+ </TrackInfo>
+</TrackResponse>
+
+
+70191640000164106538, 49788.02, Form 4868; Stack 3
+
+<?xml version="1.0" encoding="utf-8"?>
+<TrackResponse>
+ <TrackInfo ID="70191640000164106538">
+  <TrackSummary>
+   Your package is moving within the USPS network and is on track to be delivered to its final destination. It is currently in transit to the next facility.
+  </TrackSummary>
+  <TrackDetail>
+   In Transit to Next Facility, 04/22/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/21/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/20/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 18, 2024, 8:36 am, CHARLOTTE NC DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/17/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 16, 2024, 12:34 am, COPPELL TX DISTRIBUTION CENTER
+  </TrackDetail>
+ </TrackInfo>
+</TrackResponse>
+
+
+70191640000164106514, 94870.02, Form 4868; Stack 3
+
+<?xml version="1.0" encoding="utf-8"?>
+<TrackResponse>
+ <TrackInfo ID="70191640000164106514">
+  <TrackSummary>
+   Your package is moving within the USPS network and is on track to be delivered to its final destination. It is currently in transit to the next facility.
+  </TrackSummary>
+  <TrackDetail>
+   In Transit to Next Facility, 04/22/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/21/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/20/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 18, 2024, 8:36 am, CHARLOTTE NC DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/17/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 16, 2024, 12:34 am, COPPELL TX DISTRIBUTION CENTER
+  </TrackDetail>
+ </TrackInfo>
+</TrackResponse>
+
+
+70191640000164106491, 84384.02, Form 4868; Stack 3
+
+<?xml version="1.0" encoding="utf-8"?>
+<TrackResponse>
+ <TrackInfo ID="70191640000164106491">
+  <TrackSummary>
+   Your package is moving within the USPS network and is on track to be delivered to its final destination. It is currently in transit to the next facility.
+  </TrackSummary>
+  <TrackDetail>
+   In Transit to Next Facility, 04/22/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/21/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/20/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 18, 2024, 8:36 am, CHARLOTTE NC DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/17/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 16, 2024, 12:34 am, COPPELL TX DISTRIBUTION CENTER
+  </TrackDetail>
+ </TrackInfo>
+</TrackResponse>
+
+
+70191640000164106460, 08012.02, Form 4868; Stack 3
+
+<?xml version="1.0" encoding="utf-8"?>
+<TrackResponse>
+ <TrackInfo ID="70191640000164106460">
+  <TrackSummary>
+   Your package is moving within the USPS network and is on track to be delivered to its final destination. It is currently in transit to the next facility.
+  </TrackSummary>
+  <TrackDetail>
+   In Transit to Next Facility, 04/22/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/21/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/20/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 18, 2024, 8:36 am, CHARLOTTE NC DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/17/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 16, 2024, 12:34 am, COPPELL TX DISTRIBUTION CENTER
+  </TrackDetail>
+ </TrackInfo>
+</TrackResponse>
+
+
+70191640000164106453, 04457.02, Form 4868; Stack 3
+
+<?xml version="1.0" encoding="utf-8"?>
+<TrackResponse>
+ <TrackInfo ID="70191640000164106453">
+  <TrackSummary>
+   Your package is moving within the USPS network and is on track to be delivered to its final destination. It is currently in transit to the next facility.
+  </TrackSummary>
+  <TrackDetail>
+   In Transit to Next Facility, 04/22/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/21/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/20/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 18, 2024, 8:36 am, CHARLOTTE NC DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/17/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 16, 2024, 12:34 am, COPPELL TX DISTRIBUTION CENTER
+  </TrackDetail>
+ </TrackInfo>
+</TrackResponse>
+
+
+70191640000164106446, 79902.02, Form 4868; Stack 3
+
+<?xml version="1.0" encoding="utf-8"?>
+<TrackResponse>
+ <TrackInfo ID="70191640000164106446">
+  <TrackSummary>
+   Your package is moving within the USPS network and is on track to be delivered to its final destination. It is currently in transit to the next facility.
+  </TrackSummary>
+  <TrackDetail>
+   In Transit to Next Facility, 04/22/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/21/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/20/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 18, 2024, 8:36 am, CHARLOTTE NC DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/17/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 16, 2024, 12:34 am, COPPELL TX DISTRIBUTION CENTER
+  </TrackDetail>
+ </TrackInfo>
+</TrackResponse>
+
+
+70191640000164106439, 54835.02, Form 4868; Stack 3
+
+<?xml version="1.0" encoding="utf-8"?>
+<TrackResponse>
+ <TrackInfo ID="70191640000164106439">
+  <TrackSummary>
+   Your package is moving within the USPS network and is on track to be delivered to its final destination. It is currently in transit to the next facility.
+  </TrackSummary>
+  <TrackDetail>
+   In Transit to Next Facility, 04/22/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/21/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/20/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 18, 2024, 8:36 am, CHARLOTTE NC DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/17/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 16, 2024, 12:34 am, COPPELL TX DISTRIBUTION CENTER
+  </TrackDetail>
+ </TrackInfo>
+</TrackResponse>
+
+
+70191640000164106415, 19792.201, Form 4868; Stack 3
+
+<?xml version="1.0" encoding="utf-8"?>
+<TrackResponse>
+ <TrackInfo ID="70191640000164106415">
+  <TrackSummary>
+   Your package is moving within the USPS network and is on track to be delivered to its final destination. It is currently in transit to the next facility.
+  </TrackSummary>
+  <TrackDetail>
+   In Transit to Next Facility, 04/22/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/21/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/20/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 18, 2024, 8:36 am, CHARLOTTE NC DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/17/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 16, 2024, 12:34 am, COPPELL TX DISTRIBUTION CENTER
+  </TrackDetail>
+ </TrackInfo>
+</TrackResponse>
+
+
+70191640000164106323, 52432.02, Form 4868; Stack 3
+
+<?xml version="1.0" encoding="utf-8"?>
+<TrackResponse>
+ <TrackInfo ID="70191640000164106323">
+  <TrackSummary>
+   Your package is moving within the USPS network and is on track to be delivered to its final destination. It is currently in transit to the next facility.
+  </TrackSummary>
+  <TrackDetail>
+   In Transit to Next Facility, 04/22/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/21/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/20/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 18, 2024, 8:36 am, CHARLOTTE NC DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/17/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 16, 2024, 12:34 am, COPPELL TX DISTRIBUTION CENTER
+  </TrackDetail>
+ </TrackInfo>
+</TrackResponse>
+
+
+70191640000164106361, 46065.02, Form 4868; Stack 3
+
+<?xml version="1.0" encoding="utf-8"?>
+<TrackResponse>
+ <TrackInfo ID="70191640000164106361">
+  <TrackSummary>
+   Your package is moving within the USPS network and is on track to be delivered to its final destination. It is currently in transit to the next facility.
+  </TrackSummary>
+  <TrackDetail>
+   In Transit to Next Facility, 04/22/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/21/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/20/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 18, 2024, 8:36 am, CHARLOTTE NC DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/17/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 16, 2024, 12:34 am, COPPELL TX DISTRIBUTION CENTER
+  </TrackDetail>
+ </TrackInfo>
+</TrackResponse>
+
+
+70191640000164106378, 04455.02, Form 4868; Stack 3
+
+<?xml version="1.0" encoding="utf-8"?>
+<TrackResponse>
+ <TrackInfo ID="70191640000164106378">
+  <TrackSummary>
+   Your package is moving within the USPS network and is on track to be delivered to its final destination. It is currently in transit to the next facility.
+  </TrackSummary>
+  <TrackDetail>
+   In Transit to Next Facility, 04/22/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/21/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/20/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 18, 2024, 8:36 am, CHARLOTTE NC DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/17/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 16, 2024, 12:34 am, COPPELL TX DISTRIBUTION CENTER
+  </TrackDetail>
+ </TrackInfo>
+</TrackResponse>
+
+
+70191640000164106286, 60290.02, Form 4868; Stack 3
+
+<?xml version="1.0" encoding="utf-8"?>
+<TrackResponse>
+ <TrackInfo ID="70191640000164106286">
+  <TrackSummary>
+   Your package is moving within the USPS network and is on track to be delivered to its final destination. It is currently in transit to the next facility.
+  </TrackSummary>
+  <TrackDetail>
+   In Transit to Next Facility, 04/22/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/21/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/20/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 18, 2024, 8:36 am, CHARLOTTE NC DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/17/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 16, 2024, 12:34 am, COPPELL TX DISTRIBUTION CENTER
+  </TrackDetail>
+ </TrackInfo>
+</TrackResponse>
+
+
+70191640000164106224, 04291.02, 2023 Voucher 1; Stack 3
+
+<?xml version="1.0" encoding="utf-8"?>
+<TrackResponse>
+ <TrackInfo ID="70191640000164106224">
+  <TrackSummary>
+   Your package is moving within the USPS network and is on track to be delivered to its final destination. It is currently in transit to the next facility.
+  </TrackSummary>
+  <TrackDetail>
+   In Transit to Next Facility, 04/22/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/21/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/20/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 18, 2024, 8:36 am, CHARLOTTE NC DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/17/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 16, 2024, 12:34 am, COPPELL TX DISTRIBUTION CENTER
+  </TrackDetail>
+ </TrackInfo>
+</TrackResponse>
+
+
+70191640000164106194, 76088.02, Form 4868; Stack 3
+
+<?xml version="1.0" encoding="utf-8"?>
+<TrackResponse>
+ <TrackInfo ID="70191640000164106194">
+  <TrackSummary>
+   Your package is moving within the USPS network and is on track to be delivered to its final destination. It is currently in transit to the next facility.
+  </TrackSummary>
+  <TrackDetail>
+   In Transit to Next Facility, 04/22/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/21/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/20/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 18, 2024, 8:36 am, CHARLOTTE NC DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/17/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 16, 2024, 12:34 am, COPPELL TX DISTRIBUTION CENTER
+  </TrackDetail>
+ </TrackInfo>
+</TrackResponse>
+
+
+70191640000164106200, 52955.02, Form 4868; Stack 3
+
+<?xml version="1.0" encoding="utf-8"?>
+<TrackResponse>
+ <TrackInfo ID="70191640000164106200">
+  <TrackSummary>
+   Your package is moving within the USPS network and is on track to be delivered to its final destination. It is currently in transit to the next facility.
+  </TrackSummary>
+  <TrackDetail>
+   In Transit to Next Facility, 04/22/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/21/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/20/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 18, 2024, 8:36 am, CHARLOTTE NC DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/17/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 16, 2024, 12:34 am, COPPELL TX DISTRIBUTION CENTER
+  </TrackDetail>
+ </TrackInfo>
+</TrackResponse>
+
+
+70191640000164106170, 38491.02, Form 4868; Stack 3
+
+<?xml version="1.0" encoding="utf-8"?>
+<TrackResponse>
+ <TrackInfo ID="70191640000164106170">
+  <TrackSummary>
+   Your package is moving within the USPS network and is on track to be delivered to its final destination. It is currently in transit to the next facility.
+  </TrackSummary>
+  <TrackDetail>
+   In Transit to Next Facility, 04/22/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/21/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/20/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 18, 2024, 8:36 am, CHARLOTTE NC DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/17/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 16, 2024, 12:34 am, COPPELL TX DISTRIBUTION CENTER
+  </TrackDetail>
+ </TrackInfo>
+</TrackResponse>
+
+
+70191640000164106118, 79029.02, Form 1040V; Stack 3
+
+<?xml version="1.0" encoding="utf-8"?>
+<TrackResponse>
+ <TrackInfo ID="70191640000164106118">
+  <TrackSummary>
+   Your package is moving within the USPS network and is on track to be delivered to its final destination. It is currently in transit to the next facility.
+  </TrackSummary>
+  <TrackDetail>
+   In Transit to Next Facility, 04/22/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/21/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/20/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 18, 2024, 11:46 am, CHARLOTTE NC DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/17/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 16, 2024, 12:34 am, COPPELL TX DISTRIBUTION CENTER
+  </TrackDetail>
+ </TrackInfo>
+</TrackResponse>
+
+
+70191640000164106101, 36026.200, Form 4868; Stack 3
+
+<?xml version="1.0" encoding="utf-8"?>
+<TrackResponse>
+ <TrackInfo ID="70191640000164106101">
+  <TrackSummary>
+   Your package is moving within the USPS network and is on track to be delivered to its final destination. It is currently in transit to the next facility.
+  </TrackSummary>
+  <TrackDetail>
+   In Transit to Next Facility, 04/22/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/21/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/20/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 18, 2024, 8:36 am, CHARLOTTE NC DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/17/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 16, 2024, 12:34 am, COPPELL TX DISTRIBUTION CENTER
+  </TrackDetail>
+ </TrackInfo>
+</TrackResponse>
+
+
+70191640000164106095, 42649.02, Form 4868; Stack 3
+
+<?xml version="1.0" encoding="utf-8"?>
+<TrackResponse>
+ <TrackInfo ID="70191640000164106095">
+  <TrackSummary>
+   Your package is moving within the USPS network and is on track to be delivered to its final destination. It is currently in transit to the next facility.
+  </TrackSummary>
+  <TrackDetail>
+   In Transit to Next Facility, 04/22/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/21/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/20/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 18, 2024, 8:36 am, CHARLOTTE NC DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/17/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 16, 2024, 12:34 am, COPPELL TX DISTRIBUTION CENTER
+  </TrackDetail>
+ </TrackInfo>
+</TrackResponse>
+
+
+70191640000164106088, 82731.02, Form 4868; Stack 3
+
+<?xml version="1.0" encoding="utf-8"?>
+<TrackResponse>
+ <TrackInfo ID="70191640000164106088">
+  <TrackSummary>
+   Your package is moving within the USPS network and is on track to be delivered to its final destination. It is currently in transit to the next facility.
+  </TrackSummary>
+  <TrackDetail>
+   In Transit to Next Facility, 04/22/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/21/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/20/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 18, 2024, 8:36 am, CHARLOTTE NC DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/17/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 16, 2024, 12:34 am, COPPELL TX DISTRIBUTION CENTER
+  </TrackDetail>
+ </TrackInfo>
+</TrackResponse>
+
+
+70192280000060192504, 90800.02, Form 4868; Stack 3
+
+<?xml version="1.0" encoding="utf-8"?>
+<TrackResponse>
+ <TrackInfo ID="70192280000060192504">
+  <TrackSummary>
+   Your package is moving within the USPS network and is on track to be delivered to its final destination. It is currently in transit to the next facility.
+  </TrackSummary>
+  <TrackDetail>
+   In Transit to Next Facility, 04/22/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/21/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/20/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 18, 2024, 8:36 am, CHARLOTTE NC DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/17/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 16, 2024, 12:34 am, COPPELL TX DISTRIBUTION CENTER
+  </TrackDetail>
+ </TrackInfo>
+</TrackResponse>
+
+
+70192280000060192498, 36021.02, Form 4868; Stack 3
+
+<?xml version="1.0" encoding="utf-8"?>
+<TrackResponse>
+ <TrackInfo ID="70192280000060192498">
+  <TrackSummary>
+   Your package is moving within the USPS network and is on track to be delivered to its final destination. It is currently in transit to the next facility.
+  </TrackSummary>
+  <TrackDetail>
+   In Transit to Next Facility, 04/22/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/21/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/20/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 18, 2024, 8:36 am, CHARLOTTE NC DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/17/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 16, 2024, 12:34 am, COPPELL TX DISTRIBUTION CENTER
+  </TrackDetail>
+ </TrackInfo>
+</TrackResponse>
+
+
+70191640000164106019, 27852.02, Form 4868; Stack 3
+
+<?xml version="1.0" encoding="utf-8"?>
+<TrackResponse>
+ <TrackInfo ID="70191640000164106019">
+  <TrackSummary>
+   Your package is moving within the USPS network and is on track to be delivered to its final destination. It is currently in transit to the next facility.
+  </TrackSummary>
+  <TrackDetail>
+   In Transit to Next Facility, 04/22/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/21/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/20/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 18, 2024, 8:36 am, CHARLOTTE NC DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/17/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 16, 2024, 12:34 am, COPPELL TX DISTRIBUTION CENTER
+  </TrackDetail>
+ </TrackInfo>
+</TrackResponse>
+
+
+70192280000060192221, 75555.02, Form 4868; Stack 4
+
+<?xml version="1.0" encoding="utf-8"?>
+<TrackResponse>
+ <TrackInfo ID="70192280000060192221">
+  <TrackSummary>
+   Your package is moving within the USPS network and is on track to be delivered to its final destination. It is currently in transit to the next facility.
+  </TrackSummary>
+  <TrackDetail>
+   In Transit to Next Facility, 04/22/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/21/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/20/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 18, 2024, 8:36 am, CHARLOTTE NC DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/17/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Origin Facility, 04/16/2024, 12:34 am, COPPELL TX DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   USPS in possession of item, April 15, 2024, 11:05 am, WACO, TX 76710
+  </TrackDetail>
+ </TrackInfo>
+</TrackResponse>
+
+
+70192280000060192177, 70284.02, Form 4868; Stack 4
+
+<?xml version="1.0" encoding="utf-8"?>
+<TrackResponse>
+ <TrackInfo ID="70192280000060192177">
+  <TrackSummary>
+   Your package is moving within the USPS network and is on track to be delivered to its final destination. It is currently in transit to the next facility.
+  </TrackSummary>
+  <TrackDetail>
+   In Transit to Next Facility, 04/22/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/21/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/20/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 18, 2024, 8:36 am, CHARLOTTE NC DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/17/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 16, 2024, 12:34 am, COPPELL TX DISTRIBUTION CENTER
+  </TrackDetail>
+ </TrackInfo>
+</TrackResponse>
+
+
+70191640000164105746, 56076.02, Form 1040ES V1; Stack 4
+
+<?xml version="1.0" encoding="utf-8"?>
+<TrackResponse>
+ <TrackInfo ID="70191640000164105746">
+  <TrackSummary>
+   Your package is moving within the USPS network and is on track to be delivered to its final destination. It is currently in transit to the next facility.
+  </TrackSummary>
+  <TrackDetail>
+   In Transit to Next Facility, 04/22/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/21/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/20/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 18, 2024, 8:36 am, CHARLOTTE NC DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/17/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Origin Facility, 04/16/2024, 12:34 am, COPPELL TX DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   USPS in possession of item, April 15, 2024, 11:06 am, WACO, TX 76710
+  </TrackDetail>
+ </TrackInfo>
+</TrackResponse>
+
+
+70191640000164105715, 02109.02, Form 4868; Stack 4
+
+<?xml version="1.0" encoding="utf-8"?>
+<TrackResponse>
+ <TrackInfo ID="70191640000164105715">
+  <TrackSummary>
+   Your package is moving within the USPS network and is on track to be delivered to its final destination. It is currently in transit to the next facility.
+  </TrackSummary>
+  <TrackDetail>
+   In Transit to Next Facility, 04/22/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/21/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/20/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 18, 2024, 8:36 am, CHARLOTTE NC DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/17/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Origin Facility, 04/16/2024, 12:34 am, COPPELL TX DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   USPS in possession of item, April 15, 2024, 11:05 am, WACO, TX 76710
+  </TrackDetail>
+ </TrackInfo>
+</TrackResponse>
+
+
+70191640000164105708, 94838.02, Form 4868; Stack 4
+
+<?xml version="1.0" encoding="utf-8"?>
+<TrackResponse>
+ <TrackInfo ID="70191640000164105708">
+  <TrackSummary>
+   Your package is moving within the USPS network and is on track to be delivered to its final destination. It is currently in transit to the next facility.
+  </TrackSummary>
+  <TrackDetail>
+   In Transit to Next Facility, 04/22/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/21/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/20/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 18, 2024, 8:36 am, CHARLOTTE NC DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/17/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Origin Facility, 04/16/2024, 12:34 am, COPPELL TX DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   USPS in possession of item, April 15, 2024, 11:05 am, WACO, TX 76710
+  </TrackDetail>
+ </TrackInfo>
+</TrackResponse>
+
+
+70191640000164105692, 94843.02, Form 4868; Stack 4
+
+<?xml version="1.0" encoding="utf-8"?>
+<TrackResponse>
+ <TrackInfo ID="70191640000164105692">
+  <TrackSummary>
+   Your package is moving within the USPS network and is on track to be delivered to its final destination. It is currently in transit to the next facility.
+  </TrackSummary>
+  <TrackDetail>
+   In Transit to Next Facility, 04/22/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/21/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/20/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 18, 2024, 8:36 am, CHARLOTTE NC DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/17/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Origin Facility, 04/16/2024, 12:34 am, COPPELL TX DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   USPS in possession of item, April 15, 2024, 11:06 am, WACO, TX 76710
+  </TrackDetail>
+ </TrackInfo>
+</TrackResponse>
+
+
+70192280000060192436, 75805.02, Form 4868; Stack 4
+
+<?xml version="1.0" encoding="utf-8"?>
+<TrackResponse>
+ <TrackInfo ID="70192280000060192436">
+  <TrackSummary>
+   Your package is moving within the USPS network and is on track to be delivered to its final destination. It is currently in transit to the next facility.
+  </TrackSummary>
+  <TrackDetail>
+   In Transit to Next Facility, 04/22/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/21/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/20/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 18, 2024, 8:36 am, CHARLOTTE NC DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/17/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Origin Facility, 04/16/2024, 12:34 am, COPPELL TX DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   USPS in possession of item, April 15, 2024, 11:05 am, WACO, TX 76710
+  </TrackDetail>
+ </TrackInfo>
+</TrackResponse>
+
+
+70192280000060192429, 00181.02, Form 4868; Stack 4
+
+<?xml version="1.0" encoding="utf-8"?>
+<TrackResponse>
+ <TrackInfo ID="70192280000060192429">
+  <TrackSummary>
+   Your package is moving within the USPS network and is on track to be delivered to its final destination. It is currently in transit to the next facility.
+  </TrackSummary>
+  <TrackDetail>
+   In Transit to Next Facility, 04/22/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/21/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/20/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 18, 2024, 8:36 am, CHARLOTTE NC DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/17/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Origin Facility, 04/16/2024, 12:34 am, COPPELL TX DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   USPS in possession of item, April 15, 2024, 11:04 am, WACO, TX 76710
+  </TrackDetail>
+ </TrackInfo>
+</TrackResponse>
+
+
+70192280000060192337, 84672.02, Form 1040ES V1; Stack 4
+
+<?xml version="1.0" encoding="utf-8"?>
+<TrackResponse>
+ <TrackInfo ID="70192280000060192337">
+  <TrackSummary>
+   Your package is moving within the USPS network and is on track to be delivered to its final destination. It is currently in transit to the next facility.
+  </TrackSummary>
+  <TrackDetail>
+   In Transit to Next Facility, 04/22/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/21/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/20/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 18, 2024, 8:36 am, CHARLOTTE NC DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/17/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Origin Facility, 04/16/2024, 12:34 am, COPPELL TX DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   USPS in possession of item, April 15, 2024, 11:04 am, WACO, TX 76710
+  </TrackDetail>
+ </TrackInfo>
+</TrackResponse>
+
+
+70192280000060192313, 21251.02, Form 4868; Stack 4
+
+<?xml version="1.0" encoding="utf-8"?>
+<TrackResponse>
+ <TrackInfo ID="70192280000060192313">
+  <TrackSummary>
+   Your package is moving within the USPS network and is on track to be delivered to its final destination. It is currently in transit to the next facility.
+  </TrackSummary>
+  <TrackDetail>
+   In Transit to Next Facility, 04/22/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/21/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/20/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 18, 2024, 8:36 am, CHARLOTTE NC DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/17/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Origin Facility, 04/16/2024, 12:34 am, COPPELL TX DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   USPS in possession of item, April 15, 2024, 11:04 am, WACO, TX 76710
+  </TrackDetail>
+ </TrackInfo>
+</TrackResponse>
+
+
+70192280000060192320, 20357.02, Form 4868; Stack 4
+
+<?xml version="1.0" encoding="utf-8"?>
+<TrackResponse>
+ <TrackInfo ID="70192280000060192320">
+  <TrackSummary>
+   Your package is moving within the USPS network and is on track to be delivered to its final destination. It is currently in transit to the next facility.
+  </TrackSummary>
+  <TrackDetail>
+   In Transit to Next Facility, 04/22/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/21/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/20/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 18, 2024, 8:36 am, CHARLOTTE NC DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/17/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Origin Facility, 04/16/2024, 12:34 am, COPPELL TX DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   USPS in possession of item, April 15, 2024, 11:04 am, WACO, TX 76710
+  </TrackDetail>
+ </TrackInfo>
+</TrackResponse>
+
+
+70192280000060192306, 74497.02, 1040ES V1; Stack 4
+
+<?xml version="1.0" encoding="utf-8"?>
+<TrackResponse>
+ <TrackInfo ID="70192280000060192306">
+  <TrackSummary>
+   Your package is moving within the USPS network and is on track to be delivered to its final destination. It is currently in transit to the next facility.
+  </TrackSummary>
+  <TrackDetail>
+   In Transit to Next Facility, 04/22/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/21/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/20/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 18, 2024, 8:36 am, CHARLOTTE NC DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/17/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Origin Facility, 04/16/2024, 12:34 am, COPPELL TX DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   USPS in possession of item, April 15, 2024, 11:05 am, WACO, TX 76710
+  </TrackDetail>
+ </TrackInfo>
+</TrackResponse>
+
+
+70192280000060192290, 21251.02, Form 1040ES V1; Stack 4
+
+<?xml version="1.0" encoding="utf-8"?>
+<TrackResponse>
+ <TrackInfo ID="70192280000060192290">
+  <TrackSummary>
+   Your package is moving within the USPS network and is on track to be delivered to its final destination. It is currently in transit to the next facility.
+  </TrackSummary>
+  <TrackDetail>
+   In Transit to Next Facility, 04/22/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/21/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/20/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 18, 2024, 8:36 am, CHARLOTTE NC DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/17/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Origin Facility, 04/16/2024, 12:34 am, COPPELL TX DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   USPS in possession of item, April 15, 2024, 11:05 am, WACO, TX 76710
+  </TrackDetail>
+ </TrackInfo>
+</TrackResponse>
+
+
+70192280000060192283, 18994.02, Form 1040ES; Stack 4
+
+<?xml version="1.0" encoding="utf-8"?>
+<TrackResponse>
+ <TrackInfo ID="70192280000060192283">
+  <TrackSummary>
+   Your package is moving within the USPS network and is on track to be delivered to its final destination. It is currently in transit to the next facility.
+  </TrackSummary>
+  <TrackDetail>
+   In Transit to Next Facility, 04/22/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/21/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/20/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 18, 2024, 8:36 am, CHARLOTTE NC DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/17/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Origin Facility, 04/16/2024, 12:34 am, COPPELL TX DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   USPS in possession of item, April 15, 2024, 11:05 am, WACO, TX 76710
+  </TrackDetail>
+ </TrackInfo>
+</TrackResponse>
+
+
+70192280000060192252, 72589.02, Form 4868; Stack 4
+
+<?xml version="1.0" encoding="utf-8"?>
+<TrackResponse>
+ <TrackInfo ID="70192280000060192252">
+  <TrackSummary>
+   Your package is moving within the USPS network and is on track to be delivered to its final destination. It is currently in transit to the next facility.
+  </TrackSummary>
+  <TrackDetail>
+   In Transit to Next Facility, 04/22/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/21/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/20/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 18, 2024, 8:36 am, CHARLOTTE NC DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/17/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Origin Facility, 04/16/2024, 12:34 am, COPPELL TX DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   USPS in possession of item, April 15, 2024, 11:05 am, WACO, TX 76710
+  </TrackDetail>
+ </TrackInfo>
+</TrackResponse>
+
+
+70192280000060192269, 00468.02, Form 4868; Stack 4
+
+<?xml version="1.0" encoding="utf-8"?>
+<TrackResponse>
+ <TrackInfo ID="70192280000060192269">
+  <TrackSummary>
+   Your package is moving within the USPS network and is on track to be delivered to its final destination. It is currently in transit to the next facility.
+  </TrackSummary>
+  <TrackDetail>
+   In Transit to Next Facility, 04/22/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/21/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/20/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 18, 2024, 8:36 am, CHARLOTTE NC DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/17/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Origin Facility, 04/16/2024, 12:34 am, COPPELL TX DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   USPS in possession of item, April 15, 2024, 11:05 am, WACO, TX 76710
+  </TrackDetail>
+ </TrackInfo>
+</TrackResponse>
+
+
+70192280000060192214, 40622.02, Form 4868; Stack 4
+
+<?xml version="1.0" encoding="utf-8"?>
+<TrackResponse>
+ <TrackInfo ID="70192280000060192214">
+  <TrackSummary>
+   Your package is moving within the USPS network and is on track to be delivered to its final destination. It is currently in transit to the next facility.
+  </TrackSummary>
+  <TrackDetail>
+   In Transit to Next Facility, 04/22/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/21/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/20/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 18, 2024, 8:36 am, CHARLOTTE NC DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/17/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Origin Facility, 04/16/2024, 12:34 am, COPPELL TX DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   USPS in possession of item, April 15, 2024, 11:05 am, WACO, TX 76710
+  </TrackDetail>
+ </TrackInfo>
+</TrackResponse>
+
+
+70192280000060192207, 83686.02, Form 4868; Stack 4
+
+<?xml version="1.0" encoding="utf-8"?>
+<TrackResponse>
+ <TrackInfo ID="70192280000060192207">
+  <TrackSummary>
+   Your package is moving within the USPS network and is on track to be delivered to its final destination. It is currently in transit to the next facility.
+  </TrackSummary>
+  <TrackDetail>
+   In Transit to Next Facility, 04/22/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/21/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/20/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 18, 2024, 8:36 am, CHARLOTTE NC DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/17/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Origin Facility, 04/16/2024, 12:34 am, COPPELL TX DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   USPS in possession of item, April 15, 2024, 11:05 am, WACO, TX 76710
+  </TrackDetail>
+ </TrackInfo>
+</TrackResponse>
+
+
+70192280000060192184, 15305.02, Form 4868; Stack 4
+
+<?xml version="1.0" encoding="utf-8"?>
+<TrackResponse>
+ <TrackInfo ID="70192280000060192184">
+  <TrackSummary>
+   Your package is moving within the USPS network and is on track to be delivered to its final destination. It is currently in transit to the next facility.
+  </TrackSummary>
+  <TrackDetail>
+   In Transit to Next Facility, 04/22/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/21/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/20/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 18, 2024, 8:36 am, CHARLOTTE NC DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/17/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Origin Facility, 04/16/2024, 12:34 am, COPPELL TX DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   USPS in possession of item, April 15, 2024, 11:05 am, WACO, TX 76710
+  </TrackDetail>
+ </TrackInfo>
+</TrackResponse>
+
+
+70192280000060192160, 24728.02, Form 4868; Stack 4
+
+<?xml version="1.0" encoding="utf-8"?>
+<TrackResponse>
+ <TrackInfo ID="70192280000060192160">
+  <TrackSummary>
+   Your package is moving within the USPS network and is on track to be delivered to its final destination. It is currently in transit to the next facility.
+  </TrackSummary>
+  <TrackDetail>
+   In Transit to Next Facility, 04/22/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/21/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/20/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 18, 2024, 8:36 am, CHARLOTTE NC DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/17/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Origin Facility, 04/16/2024, 12:34 am, COPPELL TX DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   USPS in possession of item, April 15, 2024, 11:05 am, WACO, TX 76710
+  </TrackDetail>
+ </TrackInfo>
+</TrackResponse>
+
+
+70192280000060192146, 55567.02, Form 4868; Stack 4
+
+<?xml version="1.0" encoding="utf-8"?>
+<TrackResponse>
+ <TrackInfo ID="70192280000060192146">
+  <TrackSummary>
+   Your package is moving within the USPS network and is on track to be delivered to its final destination. It is currently in transit to the next facility.
+  </TrackSummary>
+  <TrackDetail>
+   In Transit to Next Facility, 04/22/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/21/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/20/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 18, 2024, 8:36 am, CHARLOTTE NC DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/17/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Origin Facility, 04/16/2024, 12:34 am, COPPELL TX DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   USPS in possession of item, April 15, 2024, 11:05 am, WACO, TX 76710
+  </TrackDetail>
+ </TrackInfo>
+</TrackResponse>
+
+
+70192280000060192153, 55568.02, Form 4868; Stack 4
+
+<?xml version="1.0" encoding="utf-8"?>
+<TrackResponse>
+ <TrackInfo ID="70192280000060192153">
+  <TrackSummary>
+   Your package is moving within the USPS network and is on track to be delivered to its final destination. It is currently in transit to the next facility.
+  </TrackSummary>
+  <TrackDetail>
+   In Transit to Next Facility, 04/22/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/21/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/20/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 18, 2024, 8:36 am, CHARLOTTE NC DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/17/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Origin Facility, 04/16/2024, 12:34 am, COPPELL TX DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   USPS in possession of item, April 15, 2024, 11:05 am, WACO, TX 76710
+  </TrackDetail>
+ </TrackInfo>
+</TrackResponse>
+
+
+70192280000060192351, 45930.02, Form 4868; Stack 4
+
+<?xml version="1.0" encoding="utf-8"?>
+<TrackResponse>
+ <TrackInfo ID="70192280000060192351">
+  <TrackSummary>
+   Your package is moving within the USPS network and is on track to be delivered to its final destination. It is currently in transit to the next facility.
+  </TrackSummary>
+  <TrackDetail>
+   In Transit to Next Facility, 04/22/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/21/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/20/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 18, 2024, 8:36 am, CHARLOTTE NC DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/17/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Origin Facility, 04/16/2024, 12:34 am, COPPELL TX DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   USPS in possession of item, April 15, 2024, 11:04 am, WACO, TX 76710
+  </TrackDetail>
+ </TrackInfo>
+</TrackResponse>
+
+
+70192280000060192139, 55569.02, Form 4868; Stack 4
+
+<?xml version="1.0" encoding="utf-8"?>
+<TrackResponse>
+ <TrackInfo ID="70192280000060192139">
+  <TrackSummary>
+   Your package is moving within the USPS network and is on track to be delivered to its final destination. It is currently in transit to the next facility.
+  </TrackSummary>
+  <TrackDetail>
+   In Transit to Next Facility, 04/22/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/21/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/20/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 18, 2024, 8:36 am, CHARLOTTE NC DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/17/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Origin Facility, 04/16/2024, 12:34 am, COPPELL TX DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   USPS in possession of item, April 15, 2024, 11:04 am, WACO, TX 76710
+  </TrackDetail>
+ </TrackInfo>
+</TrackResponse>
+
+
+70192280000060192115, 05842.02, Form 4868; Stack 4
+
+<?xml version="1.0" encoding="utf-8"?>
+<TrackResponse>
+ <TrackInfo ID="70192280000060192115">
+  <TrackSummary>
+   Your package is moving within the USPS network and is on track to be delivered to its final destination. It is currently in transit to the next facility.
+  </TrackSummary>
+  <TrackDetail>
+   In Transit to Next Facility, 04/22/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/21/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/20/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 18, 2024, 8:36 am, CHARLOTTE NC DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/17/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Origin Facility, 04/16/2024, 12:34 am, COPPELL TX DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   USPS in possession of item, April 15, 2024, 11:05 am, WACO, TX 76710
+  </TrackDetail>
+ </TrackInfo>
+</TrackResponse>
+
+
+70192280000060192085, 05842.02, Form 1040ES April Payment; Stack 4
+
+<?xml version="1.0" encoding="utf-8"?>
+<TrackResponse>
+ <TrackInfo ID="70192280000060192085">
+  <TrackSummary>
+   Your package is moving within the USPS network and is on track to be delivered to its final destination. It is currently in transit to the next facility.
+  </TrackSummary>
+  <TrackDetail>
+   In Transit to Next Facility, 04/22/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/21/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/20/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 18, 2024, 8:36 am, CHARLOTTE NC DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/17/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Origin Facility, 04/16/2024, 12:34 am, COPPELL TX DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   USPS in possession of item, April 15, 2024, 11:04 am, WACO, TX 76710
+  </TrackDetail>
+ </TrackInfo>
+</TrackResponse>
+
+
+70192280000060192054, 56148.02, Form 4868; Stack 4
+
+<?xml version="1.0" encoding="utf-8"?>
+<TrackResponse>
+ <TrackInfo ID="70192280000060192054">
+  <TrackSummary>
+   Your package is moving within the USPS network and is on track to be delivered to its final destination. It is currently in transit to the next facility.
+  </TrackSummary>
+  <TrackDetail>
+   In Transit to Next Facility, 04/22/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/21/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/20/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 18, 2024, 8:36 am, CHARLOTTE NC DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/17/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Origin Facility, 04/16/2024, 12:34 am, COPPELL TX DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   USPS in possession of item, April 15, 2024, 11:05 am, WACO, TX 76710
+  </TrackDetail>
+ </TrackInfo>
+</TrackResponse>
+
+
+70192280000060192061, 40955.02, Form 4868; Stack 4
+
+<?xml version="1.0" encoding="utf-8"?>
+<TrackResponse>
+ <TrackInfo ID="70192280000060192061">
+  <TrackSummary>
+   Your package is moving within the USPS network and is on track to be delivered to its final destination. It is currently in transit to the next facility.
+  </TrackSummary>
+  <TrackDetail>
+   In Transit to Next Facility, 04/22/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/21/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/20/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 18, 2024, 8:36 am, CHARLOTTE NC DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/17/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Origin Facility, 04/16/2024, 12:34 am, COPPELL TX DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   USPS in possession of item, April 15, 2024, 11:04 am, WACO, TX 76710
+  </TrackDetail>
+ </TrackInfo>
+</TrackResponse>
+
+
+70192280000060192030, 23005.02, Form 4868; Stack 4
+
+<?xml version="1.0" encoding="utf-8"?>
+<TrackResponse>
+ <TrackInfo ID="70192280000060192030">
+  <TrackSummary>
+   Your package is moving within the USPS network and is on track to be delivered to its final destination. It is currently in transit to the next facility.
+  </TrackSummary>
+  <TrackDetail>
+   In Transit to Next Facility, 04/22/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/21/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/20/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 18, 2024, 8:36 am, CHARLOTTE NC DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/17/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Origin Facility, 04/16/2024, 12:34 am, COPPELL TX DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   USPS in possession of item, April 15, 2024, 11:05 am, WACO, TX 76710
+  </TrackDetail>
+ </TrackInfo>
+</TrackResponse>
+
+
+70192280000060192047, 75837.02, Form 4868; Stack 4
+
+<?xml version="1.0" encoding="utf-8"?>
+<TrackResponse>
+ <TrackInfo ID="70192280000060192047">
+  <TrackSummary>
+   Your package is moving within the USPS network and is on track to be delivered to its final destination. It is currently in transit to the next facility.
+  </TrackSummary>
+  <TrackDetail>
+   In Transit to Next Facility, 04/22/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/21/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/20/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 18, 2024, 8:36 am, CHARLOTTE NC DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/17/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Origin Facility, 04/16/2024, 12:34 am, COPPELL TX DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   USPS in possession of item, April 15, 2024, 11:05 am, WACO, TX 76710
+  </TrackDetail>
+ </TrackInfo>
+</TrackResponse>
+
+
+70192280000060192009, 36900.02, Form 4868; Stack 4
+
+<?xml version="1.0" encoding="utf-8"?>
+<TrackResponse>
+ <TrackInfo ID="70192280000060192009">
+  <TrackSummary>
+   Your package is moving within the USPS network and is on track to be delivered to its final destination. It is currently in transit to the next facility.
+  </TrackSummary>
+  <TrackDetail>
+   In Transit to Next Facility, 04/22/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/21/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/20/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 18, 2024, 8:36 am, CHARLOTTE NC DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/17/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Origin Facility, 04/16/2024, 12:34 am, COPPELL TX DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   USPS in possession of item, April 15, 2024, 11:05 am, WACO, TX 76710
+  </TrackDetail>
+ </TrackInfo>
+</TrackResponse>
+
+
+70192280000060191996, 09568.02, Form 4868; Stack 4
+
+<?xml version="1.0" encoding="utf-8"?>
+<TrackResponse>
+ <TrackInfo ID="70192280000060191996">
+  <TrackSummary>
+   Your package is moving within the USPS network and is on track to be delivered to its final destination. It is currently in transit to the next facility.
+  </TrackSummary>
+  <TrackDetail>
+   In Transit to Next Facility, 04/22/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/21/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/20/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 18, 2024, 8:36 am, CHARLOTTE NC DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/17/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Origin Facility, 04/16/2024, 12:34 am, COPPELL TX DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   USPS in possession of item, April 15, 2024, 11:05 am, WACO, TX 76710
+  </TrackDetail>
+ </TrackInfo>
+</TrackResponse>
+
+
+70192280000060191989, 05844.02, Form 4868; Stack 4
+
+<?xml version="1.0" encoding="utf-8"?>
+<TrackResponse>
+ <TrackInfo ID="70192280000060191989">
+  <TrackSummary>
+   Your package is moving within the USPS network and is on track to be delivered to its final destination. It is currently in transit to the next facility.
+  </TrackSummary>
+  <TrackDetail>
+   In Transit to Next Facility, 04/22/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/21/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/20/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 18, 2024, 8:36 am, CHARLOTTE NC DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/17/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Origin Facility, 04/16/2024, 12:34 am, COPPELL TX DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   USPS in possession of item, April 15, 2024, 11:04 am, WACO, TX 76710
+  </TrackDetail>
+ </TrackInfo>
+</TrackResponse>
+
+
+70192280000060190906, 09941.02, 2023 1040V; Stack 4
+
+<?xml version="1.0" encoding="utf-8"?>
+<TrackResponse>
+ <TrackInfo ID="70192280000060190906">
+  <TrackSummary>
+   Your package is moving within the USPS network and is on track to be delivered to its final destination. It is currently in transit to the next facility.
+  </TrackSummary>
+  <TrackDetail>
+   In Transit to Next Facility, 04/08/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/07/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/06/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 4, 2024, 11:30 pm, CHARLOTTE NC DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/04/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/03/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 2, 2024, 12:52 am, COPPELL TX DISTRIBUTION CENTER
+  </TrackDetail>
+ </TrackInfo>
+</TrackResponse>
+
+
+70192280000060190890, 33905.02, 2022 1040V; Stack 4
+
+<?xml version="1.0" encoding="utf-8"?>
+<TrackResponse>
+ <TrackInfo ID="70192280000060190890">
+  <TrackSummary>
+   Your package is moving within the USPS network and is on track to be delivered to its final destination. It is currently in transit to the next facility.
+  </TrackSummary>
+  <TrackDetail>
+   In Transit to Next Facility, 04/08/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/07/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/06/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 4, 2024, 9:39 pm, CHARLOTTE NC DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/04/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/03/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 2, 2024, 12:49 am, COPPELL TX DISTRIBUTION CENTER
+  </TrackDetail>
+ </TrackInfo>
+</TrackResponse>
+
+
+70191640000164105944, 12690.02, Form 4868; Stack 4
+
+<?xml version="1.0" encoding="utf-8"?>
+<TrackResponse>
+ <TrackInfo ID="70191640000164105944">
+  <TrackSummary>
+   Your package is moving within the USPS network and is on track to be delivered to its final destination. It is currently in transit to the next facility.
+  </TrackSummary>
+  <TrackDetail>
+   In Transit to Next Facility, 04/22/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/21/2024
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/20/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, April 18, 2024, 8:36 am, CHARLOTTE NC DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 04/17/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Origin Facility, 04/16/2024, 12:34 am, COPPELL TX DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   USPS in possession of item, April 15, 2024, 11:04 am, WACO, TX 76710
+  </TrackDetail>
+ </TrackInfo>
+</TrackResponse>
+
+
+9589071052701128330182, 12710.02, 1040ES Voucher 2
+
+<?xml version="1.0" encoding="utf-8"?>
+<TrackResponse>
+ <TrackInfo ID="9589071052701128330182">
+  <TrackSummary>
+   Your package is moving within the USPS network and is on track to be delivered to its final destination. It is currently in transit to the next facility.
+  </TrackSummary>
+  <TrackDetail>
+   In Transit to Next Facility, 06/21/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Facility, June 20, 2024, 10:50 am, CHARLOTTE NC DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   In Transit to Next Facility, 06/19/2024
+  </TrackDetail>
+  <TrackDetail>
+   Arrived at USPS Regional Origin Facility, 06/18/2024, 12:04 am, COPPELL TX DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   USPS in possession of item, June 17, 2024, 10:52 am, WACO, TX 76710
+  </TrackDetail>
+ </TrackInfo>
+</TrackResponse>
+
+
+9589071052701128330786, 93712.02, 1040ES Voucher 3
+
+<?xml version="1.0" encoding="utf-8"?>
+<TrackResponse>
+ <TrackInfo ID="9589071052701128330786">
+  <TrackSummary>
+   Your item arrived at our USPS facility in CHARLOTTE NC DISTRIBUTION CENTER on July 19, 2024 at 3:12 pm. The item is currently in transit to the destination.
+  </TrackSummary>
+  <TrackDetail>
+   Arrived at USPS Regional Origin Facility, 07/18/2024, 1:12 am, COPPELL TX DISTRIBUTION CENTER
+  </TrackDetail>
+  <TrackDetail>
+   USPS in possession of item, July 17, 2024, 4:56 pm, WACO, TX 76710
+  </TrackDetail>
+ </TrackInfo>
+</TrackResponse>
+
